@@ -17,7 +17,7 @@ Send memes through the POST endpoint
 > [!NOTE]
 > Likely improved in future
 
-## Setup
+## Setup
 
 ```bash
 git clone https://github.com/endrit-ademi11100/brainrot-relay
