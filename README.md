@@ -1,4 +1,4 @@
-# brainrot-relay
+# brainrot-relay
 
 Send memes through the POST endpoint
 
