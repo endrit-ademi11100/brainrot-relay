@@ -15,7 +15,7 @@ Send memes through the POST endpoint
 - Filetype filtering
 
 > [!NOTE]
-> Likely improved in future
+> Likely improving in future
 
 ## Setup
 
